@@ -11,7 +11,7 @@ Due to rising international tourism and westernization, people tend to buy impor
 
 # The Solution
 Our responsive website Roots of India, which:
-- Creates awarness about rural tourism in India
+- Creates awareness about rural tourism in India
 - Promotes use and buying of handmade art and crafts made by the local skilled-people of India
 - Provides employment opportunities to the local residents of rural areas
 
